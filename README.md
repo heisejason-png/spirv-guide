@@ -42,5 +42,4 @@ The SPIR-V Guide is designed to help developers get up and going with the world 
 - [Extended instruction sets](./chapters/extended_instruction_sets.md)
 - [Non-Semantic Instructions](./chapters/nonsemantic.md)
     - [NonSemantic Shader DebugInfo](./chapters/shader_debug_info.md)
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
